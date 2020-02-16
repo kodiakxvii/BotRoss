@@ -15,13 +15,13 @@ var servers = {};
 const queue = new Map();
 
 
-// starts loop for random quote sourcer
+// starts loop of random quote sourcer
 
 var InfiniteLoop = require('infinite-loop');
 var il = new InfiniteLoop;
 
 
-// randomizes quote it sources from list 
+// randomizes quote sources from list 
 function randomQuote(){
     return quotes[Math.floor(Math.random() * quotes.length)];
 };
