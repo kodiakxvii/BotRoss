@@ -1,6 +1,8 @@
 # BotRoss
 Discord bot written in the node.js module Discord.js centered around the theme of Bob Ross, the painter, art instructor, and television host of The Joy of Painting.
 
+## 🛑 Archival 🛑
+Only just been reminded that this public repo still exists - This public version of BotRoss has long been outated since the Discord slash commands update but frankly the codebase was trash since the beginning when I was watching every discordjs tutorial so this version is being archived. Might post the private hivemind discord server version at some point when I get around to doing a complete overhaul of it.
 
 ## Functions 
 * Uses the period as its command prefix eg. '.join'
